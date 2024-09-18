@@ -1,0 +1,121 @@
+ERROR:root:An error occurred: 'int' object is not iterable
+ERROR:root:Traceback: Traceback (most recent call last):
+  File "/Users/tianyuliu/Code/llm/llm_project/src/app/Tetris.py", line 152, in run
+    self.draw()
+  File "/Users/tianyuliu/Code/llm/llm_project/src/app/Tetris.py", line 104, in draw
+    for j, cell in enumerate(row):
+TypeError: 'int' object is not iterable
+
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:Unexpected shape row type at i=0: <class 'int'>
+ERROR:root:Unexpected shape row type at i=1: <class 'int'>
+ERROR:root:Unexpected shape row type at i=2: <class 'int'>
+ERROR:root:An error occurred: 'int' object is not iterable
+ERROR:root:Traceback: Traceback (most recent call last):
+  File "/Users/tianyuliu/Code/llm/llm_project/src/app/Tetris.py", line 129, in run
+    if self.valid_move(self.current_piece, self.current_piece.x, self.current_piece.y + 1):
+  File "/Users/tianyuliu/Code/llm/llm_project/src/app/Tetris.py", line 73, in valid_move
+    for j, cell in enumerate(row):
+TypeError: 'int' object is not iterable
+
