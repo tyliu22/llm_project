@@ -18,7 +18,11 @@ pygame = "^2.5.2"
 notebook = "^7.2.2"
 gradio = "^4.44.0"
 pandas = "^2.2.2"
+python-dotenv = "^1.0.1"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
